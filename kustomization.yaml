@@ -5,4 +5,4 @@ resources:
   - ./base/
 images:
   - name: docker.io/traefik
-    digest: sha256:aaf0f6185419a50c74651448c1a5bf4606bd2d2ddb7b8749eed505d55bf8b8ea # v3.6.2
+    digest: sha256:9c2a54d87f76f5c2f5f2682c68394af92fb12c0a2686798d6462a3f84bd78eaf # v3.6.2
